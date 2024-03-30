@@ -9,3 +9,6 @@
 📫 You can reach out to me at <a href='mailto:pushparaj.borusu@gmail.com'>pushparaj.borusu@gmail.com</a>.
 
 😄 Pronouns: He/Him
+
+👯 In addition to teaching Applied AI, ML and DL topics I can also help you with Probabilistic Graphical Models, Graph Neural Networks, Speech and audio Analysis, Computer Vision, Human-Computer Interaction, Bayesian Statistics
+
